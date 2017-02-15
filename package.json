@@ -1,0 +1,29 @@
+{
+  "name": "http-servers-davidw01",
+  "version": "1.0.0",
+  "description": "http servers hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yale-cpsc-213/http-servers-davidw01.git"
+  },
+  "keywords": [
+    "http",
+    "servers",
+    "hw"
+  ],
+  "author": "davidw01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yale-cpsc-213/http-servers-davidw01/issues"
+  },
+  "homepage": "https://github.com/yale-cpsc-213/http-servers-davidw01#readme",
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "nodemon": "^1.11.0"
+  }
+}
